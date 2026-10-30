@@ -1,0 +1,8 @@
+﻿{
+    "subject":  "repo:AprameyaGupta046015227/mslearn-genaiops:ref:refs/heads/main",
+    "audiences":  [
+                      "api://AzureADTokenExchange"
+                  ],
+    "issuer":  "https://token.actions.githubusercontent.com",
+    "name":  "github-actions-main-fixed"
+}
